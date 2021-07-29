@@ -1,0 +1,60 @@
+[
+  {
+    id: "1",
+    title: "Air Max 90",
+    subtitle: "$239.66",
+    avatarSrc: "https://source.unsplash.com/LxVxPA1LOVM",
+    imgSrc: "https://source.unsplash.com/LxVxPA1LOVM",
+    description: "Ullamco laborum ex est sint.",
+  },
+  {
+    id: "2",
+    title: "Wild Horse 6",
+    subtitle: "$106.50",
+    avatarSrc: "https://source.unsplash.com/LG88A2XgIXY",
+    imgSrc: "https://source.unsplash.com/LG88A2XgIXY",
+    description:
+      "Est et aute excepteur anim consequat et minim fugiat nisi sunt aliqua.",
+  },
+  {
+    id: "3",
+    title: "Lebron 17",
+    subtitle: "$409.33",
+    avatarSrc: "https://source.unsplash.com/1zBPoVwS_Jo",
+    imgSrc: "https://source.unsplash.com/1zBPoVwS_Jo",
+    description: "Cupidatat occaecat adipisicing Lorem minim.",
+  },
+  {
+    id: "4",
+    title: "Air Max Plus 3",
+    subtitle: "$72.09",
+    avatarSrc: "https://source.unsplash.com/bFnGJdBgVLk",
+    imgSrc: "https://source.unsplash.com/bFnGJdBgVLk",
+    description:
+      "Id dolore consectetur velit ad nulla do ullamco cillum exercitation exercitation.",
+  },
+  {
+    id: "5",
+    title: "Metcon 5",
+    subtitle: "$243.62",
+    avatarSrc: "https://source.unsplash.com/fUEP0djb1hA",
+    imgSrc: "https://source.unsplash.com/fUEP0djb1hA",
+    description: "Minim fugiat Lorem sit nulla.",
+  },
+  {
+    id: "6",
+    title: "React Miler",
+    subtitle: "$349.04",
+    avatarSrc: "https://source.unsplash.com/ezdrvzA1hZw",
+    imgSrc: "https://source.unsplash.com/ezdrvzA1hZw",
+    description: "Nulla pariatur ut anim veniam.",
+  },
+  {
+    id: "7",
+    title: "Zoom fly 3",
+    subtitle: "$258.44",
+    avatarSrc: "https://source.unsplash.com/ad_0wMHtvlU",
+    imgSrc: "https://source.unsplash.com/ad_0wMHtvlU",
+    description: "Et in irure esse esse ipsum tempor ex ut officia.",
+  },
+];
