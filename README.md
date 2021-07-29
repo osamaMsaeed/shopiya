@@ -1,6 +1,6 @@
 # Shopiya - A shopping App
 
-React redux saga project that uses a mock api to show products. Images are fetched from unsplash source.
+React + Redux saga + Firbase project
 
 # Usage
 
